@@ -1,7 +1,8 @@
-Laravel with fcm 
+Laravel with firebase chat api
 
 steps to install 
 1) git clone the url
 2) run composer update in terminal
 
-implementation of firebase chat plugin (safestudio/firebase) with laravel. 
+project incude firebase chat api with laravel  with basic firebase chat structure .implemet api in your mobile app.
+
